@@ -1,5 +1,6 @@
 #encoding=UTF-8
 
+
 from web import app,db
 from web.models import User,Image,Comment
 import random
